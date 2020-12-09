@@ -1,6 +1,6 @@
 # grey-cactus
 # first repo, mark down language
-New Vocab Words:
+Vocab Words:
 **Term** | **Definition**
 -----------------|-------------------------
 1. **Encryption Key** 
