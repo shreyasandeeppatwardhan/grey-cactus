@@ -1,7 +1,8 @@
 # grey-cactus
 # first repo, mark down language
 New Vocab Words:
-**Term | Definition 
+**Term | Definition**
+-----------------|-------------------------
 1. **Encryption Key** 
   * A key that makes information unreadable.
 2. **Cryptonium Pipe**
