@@ -1,3 +1,9 @@
 # grey-cactus
 first repo, mark down language
-print("Hello World")
+New Vocab Words:
+1)
+2)
+3)
+4)
+5)
+
