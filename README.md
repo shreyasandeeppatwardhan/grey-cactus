@@ -1,6 +1,6 @@
 # grey-cactus
 # first repo, mark down language
-Vocab Words:
+Vocab Words:camel :
 **Term** | **Definition**
 -----------------|-------------------------
 **Encryption Key** | A key that makes information unreadable.
