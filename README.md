@@ -9,7 +9,7 @@ New Vocab Words:
   * A cipher where The way you encrypt letters changes throughout the message. 
 4. Babbage's Cryptogram 
   * Counted how many letters separated repeated patterns  and used that for frequency analysis. 
-5. cribs
-  * common words and phrases 
+5. Cribs
+  * Common words and phrases
 
 
