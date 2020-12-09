@@ -3,7 +3,7 @@
 New Vocab Words:
 **Term** | **Definition**
 -----------------|-------------------------
-1. **Encryption Key**|  * A key that makes information unreadable.
+1. **Encryption Key** |  * A key that makes information unreadable.
   * A key that makes information unreadable.
 2. **Cryptonium Pipe**
   * A portal where information where messages, emails and the information of others goes through a portal to be encrypted and then received by the sender. 
